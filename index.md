@@ -1,7 +1,7 @@
 # Section
 ## Subsection
 
-This is a paragraph with *bold*
+This is a paragraph with **bold**.
 Unordered list:
 
 - Item 1
